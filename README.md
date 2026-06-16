@@ -3,7 +3,7 @@
 
 Welcome to my collection of **Netanix CTF** writeups.
 
-This repository contains detailed walkthroughs for challenges I solved during Netanix CTF competitions. Each writeup documents my approach, analysis, and solution with the goal of helping others learn practical cybersecurity techniques and CTF problem-solving.
+This repository contains detailed walkthroughs for challenges I solved in Netanix CTF. Each writeup documents my approach, analysis, and solution with the goal of helping others learn practical cybersecurity techniques and CTF problem-solving.
 
 ## Categories
 
