@@ -1,6 +1,6 @@
 # Fractured Echoes
 
-**Category:** Cryptography — Broken DSA / Hidden Number Problem  
+**Category:** Cryptography
 **Platform:** Netanix / NxCTF  
 **Flag:** `NxCTF{REDACTED}`
 
