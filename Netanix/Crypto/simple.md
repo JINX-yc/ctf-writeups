@@ -41,14 +41,14 @@ This is a Vigenère-encoded ciphertext, and the hint confirms a key is needed.
 Using the dcode.fr Mourier Alphabet decoder, translate the symbols shown in the challenge image. The decoded output is:
 
 ```
-REDGORILLAZ
+REDACTED
 ```
 
 This is the Vigenère key.
 
 ### Step 4 — Decode the Vigenère Ciphertext
 
-Apply the key `REDGORILLAZ` to the ciphertext from the image metadata using a Vigenère decoder (e.g., [dcode.fr/vigenere-cipher](https://www.dcode.fr/vigenere-cipher)):
+Apply the key `REDACTED` to the ciphertext from the image metadata using a Vigenère decoder (e.g., [dcode.fr/vigenere-cipher](https://www.dcode.fr/vigenere-cipher)):
 
 ```
 Ciphertext : Deck_Q1Gp3cd_4Rd_Kv1fqm
