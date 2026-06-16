@@ -30,7 +30,7 @@ ctf-writeups/
 ```
 
 Each challenge directory contains:
-- Challenge description (when permitted)
+- Challenge overview
 - Analysis and thought process
 - Solution walkthrough
 - Scripts or exploits used
