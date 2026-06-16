@@ -1,13 +1,9 @@
 ![Writeups](https://img.shields.io/badge/Writeups-CTF-blue)
-# ctf-writeups
-Welcome to my collection of CTF writeups.
+## Netanix CTF Writeups
 
-This repository contains detailed writeups for challenges I have solved during various Capture The Flag (CTF) competitions. The goal of these writeups is to document my learning process, explain my methodology, and help others understand the techniques used to solve similar challenges.
+Welcome to my collection of **Netanix CTF** writeups.
 
-## Competitions
-
-- PicoCTF
-- Netanix CTF
+This repository contains detailed walkthroughs for challenges I solved during Netanix CTF competitions. Each writeup documents my approach, analysis, and solution with the goal of helping others learn practical cybersecurity techniques and CTF problem-solving.
 
 ## Categories
 
@@ -18,13 +14,14 @@ This repository contains detailed writeups for challenges I have solved during v
 - Forensics
 - OSINT
 - Miscellaneous
+- Mobile
+- Hardware
 
   
 ## Repository Structure
 
 ```
 ctf-writeups/
-├── PicoCTF/
 ├── Netanix/
 └── README.md
 ```
@@ -38,6 +35,12 @@ Each challenge directory contains:
 ## Disclaimer
 
 These writeups are published for educational purposes only. They are intended to help others learn cybersecurity concepts and CTF-solving techniques. Please respect each competition's rules regarding the publication of solutions.
+
+
+## Future Plans
+
+This repository will continue to grow as I solve more Netanix challenges and participate in other CTF competitions.
+
 
 ## Connect
 
