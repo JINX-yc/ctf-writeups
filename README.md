@@ -1,4 +1,6 @@
 ![Writeups](https://img.shields.io/badge/Writeups-CTF-blue)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe%20%7C%20CTF-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 ## CTF Writeups
 
 Welcome to my collection of **Writeups** .
