@@ -1,5 +1,6 @@
 ![Writeups](https://img.shields.io/badge/Writeups-CTF-blue)
-![Platform](https://img.shields.io/badge/Platform-TryHackMe%20%7C%20CTF-green)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe%20%7C%20CTF-red)
+![Platform](https://img.shields.io/badge/Platform-NetanixCTF%20%7C%20CTF-glowgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ## CTF Writeups
 
