@@ -1,9 +1,9 @@
 ![Writeups](https://img.shields.io/badge/Writeups-CTF-blue)
-## Netanix CTF Writeups
+## CTF Writeups
 
-Welcome to my collection of **Netanix CTF** writeups.
+Welcome to my collection of **Writeups** .
 
-This repository contains detailed walkthroughs for challenges I solved in Netanix CTF. Each writeup documents my approach, analysis, and solution with the goal of helping others learn practical cybersecurity techniques and CTF problem-solving.
+This repository contains detailed walkthroughs for challenges I solved in Differnet CTFs. Each writeup documents my approach, analysis, and solution with the goal of helping others learn practical cybersecurity techniques and CTF problem-solving.
 
 ## Categories
 
@@ -24,13 +24,25 @@ This repository contains detailed walkthroughs for challenges I solved in Netani
 ctf-writeups/
 ├── Netanix/
 └── README.md
+│
+├── TryHackMe/
+│   └── Hacker Holidays 2026/
+│       ├── Day 01/
+│       └── Day 02/
 ```
 
 Each challenge directory contains:
 - Challenge overview
 - Analysis and thought process
 - Solution walkthrough
-- Scripts or exploits used
+- Scripts, payloads, or exploits used
+
+## Platforms
+
+Currently includes writeups from:
+- Netanix CTF
+- TryHackMe
+- *(More platforms will be added as I continue learning.)*
 
 ## Disclaimer
 
@@ -39,7 +51,11 @@ These writeups are published for educational purposes only. They are intended to
 
 ## Future Plans
 
-This repository will continue to grow as I solve more Netanix challenges and participate in other CTF competitions.
+I plan to continue expanding this repo with writeups from:
+
+- More CTF competitions
+- HackTheBox
+- Other cybersecurity labs and practice platforms
 
 
 ## Connect
