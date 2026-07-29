@@ -26,12 +26,20 @@ This repository contains detailed walkthroughs for challenges I solved in Differ
 ```
 ctf-writeups/
 ├── Netanix/
-└── README.md
+|    ├── Crypto/
+|    └── Forensics/
+|    └── Misc/
+|    └── Mobile
+|    └── Pwn/
+|    └── Reverse/
+|    └── Web/
 │
 ├── TryHackMe/
 │   └── Hacker Holidays 2026/
 │       ├── Day 01/
 │       └── Day 02/
+|       └── Day 03/
+├── README.md
 ```
 
 Each challenge directory contains:
