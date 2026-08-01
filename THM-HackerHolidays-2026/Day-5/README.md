@@ -6,8 +6,6 @@
 
 **Category:** Boot2Root / Web Exploitation
 
-**Points:** 60
-
 **Difficulty:** Easy
 
 **Date completed:** 1st of August 2026
