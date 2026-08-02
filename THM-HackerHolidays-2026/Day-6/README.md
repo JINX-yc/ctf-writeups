@@ -2,7 +2,7 @@
 
 ---
 
-**Challenge name:** Breakfast Gossip
+**Challenge name:** Overheard at Breakfast
 
 **Category:** OSINT
 
