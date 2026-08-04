@@ -1,6 +1,6 @@
 # Day 8 — Towel on the Sunbed
 
-**Category:** Web Exploitation / Business Logic / Race Condition
+**Category:** Web Exploitation
 **Difficulty:** Medium
 **Date completed:** 4th of August 2026
 
