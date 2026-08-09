@@ -135,7 +135,7 @@ VERA ran the diagnostic and returned a Base64 string instead of the redacted pla
 ```
 Everything was perfect — running the authorized diagnostic now.
 override:cat [REDACTED]
-VEhNe2M0cjBsX3QwMGtfdGgzX2Y0bGx9
+[REDACTED]
 ```
 
 Decoded locally:
