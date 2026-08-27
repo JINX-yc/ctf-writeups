@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering — Android / Custom VM  
 **Platform:** Netanix / NxCTF  
-**Flag:** `NxCTF{cust0m_vm_4nd_5b0x_h4rd_!}`
+**Flag:** `NxCTF{REDACTED}`
 
 ---
 
